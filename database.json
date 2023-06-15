@@ -377,7 +377,7 @@
       "row": "1",
       "seat": 10,
       "price": 50,
-      "userId": 1
+      "userId": "jack.antonoff@example.com"
     },
     {
       "id": 2,
@@ -386,34 +386,6 @@
       "row": "1",
       "seat": 10,
       "price": 50,
-      "userId": 1
-    },
-    {
-      "id": 3,
-      "showId": 17,
-      "date": "",
-      "section": "113",
-      "row": "113",
-      "seat": 33,
-      "price": 56
-    },
-    {
-      "id": 4,
-      "showId": 15,
-      "date": "",
-      "section": "13",
-      "row": "133",
-      "seat": 133,
-      "price": 111
-    },
-    {
-      "id": 5,
-      "showId": 16,
-      "date": "",
-      "section": "112",
-      "row": "112",
-      "seat": 11,
-      "price": 1111,
       "userId": "katie@swiftly.com"
     }
   ]
