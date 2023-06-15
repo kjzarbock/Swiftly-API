@@ -387,6 +387,26 @@
       "seat": 10,
       "price": 50,
       "userId": "katie@swiftly.com"
+    },
+    {
+      "id": 3,
+      "showId": 11,
+      "date": "",
+      "section": "A",
+      "row": "13",
+      "seat": 13,
+      "price": 130,
+      "userId": "kjzarbock@gmail.com"
+    },
+    {
+      "id": 4,
+      "showId": 5,
+      "date": "",
+      "section": "N",
+      "row": "12",
+      "seat": 2,
+      "price": 110,
+      "userId": "katie@swiftly.com"
     }
   ]
 }
