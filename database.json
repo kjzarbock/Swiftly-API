@@ -1,375 +1,438 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Katie Zarbock",
-        "email": "katie@swiftly.com",
-        "isStaff": true
-      },
-      {
-        "id": 2,
-        "name": "Sam Thrasher",
-        "email": "sam@swiftly.com",
-        "isStaff": true
-      },
-      {
-        "id": 3,
-        "name": "Aaron Dessner",
-        "email": "aaron.dessner@example.com",
-        "isStaff": true
-      },
-      {
-        "id": 4,
-        "name": "Jack Antonoff",
-        "email": "jack.antonoff@example.com",
-        "isStaff": false
-      },
-      {
-        "id": 5,
-        "name": "Joe Alwyn",
-        "email": "joe.alwyn@example.com",
-        "isStaff": false
-      },
-      {
-        "id": 6,
-        "name": "Selena Gomez",
-        "email": "selena.gomez@example.com",
-        "isStaff": false
-      },
-      {
-        "id": 7,
-        "name": "Ice Spice",
-        "email": "ice.spice@example.com",
-        "isStaff": false
-      },
-      {
-        "id": 8,
-        "name": "Abigail Anderson",
-        "email": "abigail.anderson@example.com",
-        "isStaff": false
-      },
-      {
-        "id": 9,
-        "name": "Hayley Williams",
-        "email": "hayley.williams@example.com",
-        "isStaff": false
-      },
-      {
-        "id": 10,
-        "name": "Matty Healy",
-        "email": "matty@the1975.com",
-        "isStaff": false
-      },
-      {
-        "id": 11,
-        "name": "Gigi Hadid",
-        "email": "gigi.hadid@example.com",
-        "isStaff": false
-      },
-      {
-        "id": 12,
-        "name": "Ed Sheeran",
-        "email": "ed.sheeran@example.com",
-        "isStaff": false
-      },
-      {
-        "id": 13,
-        "name": "Becky Swiff",
-        "email": "becky.swiff@example.com",
-        "isStaff": false
-      }
-    ],
-    "merchandise": [
-    ],
-    "shows": [
-      {
-        "id": 1,
-        "city": "Pittsburgh, PA",
-        "date": "06/16/2023",
-        "opener": "girl in red",
-        "isInternational": false
-      },
-      {
-        "id": 2,
-        "city": "Pittsburgh, PA",
-        "date": "06/17/2023",
-        "opener": "girl in red",
-        "isInternational": false
-      },
-      {
-        "id": 3,
-        "city": "Minneapolis, MN",
-        "date": "06/23/2023",
-        "opener": "girl in red",
-        "isInternational": false
-      },
-      {
-        "id": 4,
-        "city": "Minneapolis, MN",
-        "date": "06/24/2023",
-        "opener": "girl in red",
-        "isInternational": false
-      },
-      {
-        "id": 5,
-        "city": "Cincinnati, OH",
-        "date": "06/30/2023",
-        "opener": "MUNA",
-        "isInternational": false
-      },
-      {
-        "id": 6,
-        "city": "Cincinnati, OH",
-        "date": "07/01/2023",
-        "opener": "MUNA",
-        "isInternational": false
-      },
-      {
-        "id": 7,
-        "city": "Kansas City, MO",
-        "date": "07/07/2023",
-        "opener": "MUNA",
-        "isInternational": false
-      },
-      {
-        "id": 8,
-        "city": "Kansas City, MO",
-        "date": "07/08/2023",
-        "opener": "MUNA",
-        "isInternational": false
-      },
-      {
-        "id": 9,
-        "city": "Denver, CO",
-        "date": "07/14/2023",
-        "opener": "MUNA",
-        "isInternational": false
-      },
-      {
-        "id": 10,
-        "city": "Denver, CO",
-        "date": "07/15/2023",
-        "opener": "MUNA",
-        "isInternational": false
-      },
-      {
-        "id": 11,
-        "city": "Seattle, WA",
-        "date": "07/22/2023",
-        "opener": "HAIM",
-        "isInternational": false
-      },
-      {
-        "id": 12,
-        "city": "Seattle, WA",
-        "date": "07/23/2023",
-        "opener": "HAIM",
-        "isInternational": false
-      },
-      {
-        "id": 13,
-        "city": "Santa Clara, CA",
-        "date": "07/28/2023",
-        "opener": "HAIM",
-        "isInternational": false
-      },
-      {
-        "id": 14,
-        "city": "Santa Clara, CA",
-        "date": "07/29/2023",
-        "opener": "HAIM",
-        "isInternational": false
-      },
-      {
-        "id": 15,
-        "city": "Los Angeles, CA",
-        "date": "08/03/2023",
-        "opener": "HAIM",
-        "isInternational": false
-      },
-      {
-        "id": 16,
-        "city": "Los Angeles, CA",
-        "date": "08/04/2023",
-        "opener": "HAIM",
-        "isInternational": false
-      },
-      {
-        "id": 17,
-        "city": "Los Angeles, CA",
-        "date": "08/05/2023",
-        "opener": "HAIM",
-        "isInternational": false
-      },
-      {
-        "id": 18,
-        "city": "Los Angeles, CA",
-        "date": "08/08/2023",
-        "opener": "HAIM",
-        "isInternational": false
-      },
-      {
-        "id": 19,
-        "city": "Los Angeles, CA",
-        "date": "08/09/2023",
-        "opener": "HAIM",
-        "isInternational": false
-      },
-      {
-        "id": 20,
-        "city": "Mexico City, Mexico",
-        "date": "08/24/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 21,
-        "city": "Mexico City, Mexico",
-        "date": "08/25/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 22,
-        "city": "Mexico City, Mexico",
-        "date": "08/26/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 23,
-        "city": "Mexico City, Mexico",
-        "date": "08/27/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 24,
-        "city": "Buenos Aires, Argentina",
-        "date": "11/09/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 25,
-        "city": "Buenos Aires, Argentina",
-        "date": "11/10/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 26,
-        "city": "Buenos Aires, Argentina",
-        "date": "11/11/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 27,
-        "city": "Rio de Janeiro, Brazil",
-        "date": "11/18/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 28,
-        "city": "Rio de Janeiro, Brazil",
-        "date": "11/19/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 29,
-        "city": "São Paulo, Brazil",
-        "date": "11/24/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 30,
-        "city": "São Paulo, Brazil",
-        "date": "11/25/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      },
-      {
-        "id": 31,
-        "city": "São Paulo, Brazil",
-        "date": "11/26/2023",
-        "opener": "Sabrina Carpenter",
-        "isInternational": true
-      }
-    ],
-    "tickets": [
-      {
-        "id": 1,
-        "showId": 1,
-        "date": "",
-        "section": "A",
-        "row": "13",
-        "seat": 13,
-        "price": 130,
-        "email": "katie@swiftly.com"
-      },
-      {
-        "id": 2,
-        "showId": 2,
-        "date": "",
-        "section": "A",
-        "row": "13",
-        "seat": 13,
-        "price": 150,
-        "email": "katie@swiftly.com"
-      },
-      {
-        "id": 3,
-        "showId": 5,
-        "date": "",
-        "section": "A",
-        "row": "5",
-        "seat": 5,
-        "price": 150,
-        "email": "katie@swiftly.com"
-      },
-      {
-        "id": 4,
-        "showId": 7,
-        "date": "",
-        "section": "a",
-        "row": "4",
-        "seat": 4,
-        "price": 400,
-        "email": "sam@swiftly.com"
-      },
-      {
-        "id": 5,
-        "showId": 5,
-        "date": "",
-        "section": "F",
-        "row": "12",
-        "seat": 1,
-        "price": 300,
-        "email": "katie@swiftly.com"
-      },
-      {
-        "id": 6,
-        "showId": 9,
-        "date": "",
-        "section": "N",
-        "row": "2",
-        "seat": 10,
-        "price": 150,
-        "email": "jack.antonoff@example.com"
-      },
-      {
-        "id": 7,
-        "showId": 5,
-        "date": "",
-        "section": "B",
-        "row": "2",
-        "seat": 2,
-        "price": 257,
-        "email": "aaron.dessner@example.com"
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Katie Zarbock",
+      "email": "katie@swiftly.com",
+      "isStaff": true
+    },
+    {
+      "id": 2,
+      "name": "Sam Thrasher",
+      "email": "sam@swiftly.com",
+      "isStaff": true
+    },
+    {
+      "id": 3,
+      "name": "Aaron Dessner",
+      "email": "aaron.dessner@example.com",
+      "isStaff": true
+    },
+    {
+      "id": 4,
+      "name": "Jack Antonoff",
+      "email": "jack.antonoff@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 5,
+      "name": "Joe Alwyn",
+      "email": "joe.alwyn@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 6,
+      "name": "Selena Gomez",
+      "email": "selena.gomez@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 7,
+      "name": "Ice Spice",
+      "email": "ice.spice@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 8,
+      "name": "Abigail Anderson",
+      "email": "abigail.anderson@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 9,
+      "name": "Hayley Williams",
+      "email": "hayley.williams@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 10,
+      "name": "Matty Healy",
+      "email": "matty@the1975.com",
+      "isStaff": false
+    },
+    {
+      "id": 11,
+      "name": "Gigi Hadid",
+      "email": "gigi.hadid@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 12,
+      "name": "Ed Sheeran",
+      "email": "ed.sheeran@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 13,
+      "name": "Becky Swiff",
+      "email": "becky.swiff@example.com",
+      "isStaff": false
+    }
+  ],
+  "merchandise": [
+    {
+      "id": 1,
+      "size": "M",
+      "price": "60",
+      "image": "https://i.imgur.com/B3V4R5P.jpg",
+      "email": "aaron.dessner@example.com"
+    },
+    {
+      "id": 2,
+      "size": "L",
+      "price": "45",
+      "image": "https://i.imgur.com/EYadGHb.jpg",
+      "email": "katie@swiftly.com"
+    },
+    {
+      "id": 3,
+      "size": "XL",
+      "price": "69",
+      "image": "https://i.imgur.com/sOynjNG.jpg",
+      "email": "joe.alwyn@example.com"
+    },
+    {
+      "id": 4,
+      "size": "M",
+      "price": "26",
+      "image": "https://i.imgur.com/xsZz4i9.jpg",
+      "email": "jack.antonoff@example.com"
+    },
+    {
+      "id": 5,
+      "size": "S",
+      "price": "17",
+      "image": "https://i.imgur.com/anC3AEV.jpg\",",
+      "email": "hayley.williams@example.com"
+    },
+    {
+      "id": 6,
+      "size": "S",
+      "price": "28",
+      "image": "https://i.imgur.com/9LhWBrr.jpg",
+      "email": "hayley.williams@example.com"
+    },
+    {
+      "id": 7,
+      "size": "",
+      "price": "55",
+      "image": "https://i.imgur.com/KYxbdw9.jpg",
+      "email": "matty@the1975.com"
+    },
+    {
+      "id": 8,
+      "size": "XL",
+      "price": "27",
+      "image": "https://i.imgur.com/fsOMr3n.jpg",
+      "email": "matty@the1975.com"
+    },
+    {
+      "id": 9,
+      "size": "",
+      "price": "50",
+      "image": "https://i.imgur.com/izZKbdo.jpg",
+      "email": "sam@swiftly.com"
+    }
+  ],
+  "shows": [
+    {
+      "id": 1,
+      "city": "Pittsburgh, PA",
+      "date": "06/16/2023",
+      "opener": "girl in red",
+      "isInternational": false
+    },
+    {
+      "id": 2,
+      "city": "Pittsburgh, PA",
+      "date": "06/17/2023",
+      "opener": "girl in red",
+      "isInternational": false
+    },
+    {
+      "id": 3,
+      "city": "Minneapolis, MN",
+      "date": "06/23/2023",
+      "opener": "girl in red",
+      "isInternational": false
+    },
+    {
+      "id": 4,
+      "city": "Minneapolis, MN",
+      "date": "06/24/2023",
+      "opener": "girl in red",
+      "isInternational": false
+    },
+    {
+      "id": 5,
+      "city": "Cincinnati, OH",
+      "date": "06/30/2023",
+      "opener": "MUNA",
+      "isInternational": false
+    },
+    {
+      "id": 6,
+      "city": "Cincinnati, OH",
+      "date": "07/01/2023",
+      "opener": "MUNA",
+      "isInternational": false
+    },
+    {
+      "id": 7,
+      "city": "Kansas City, MO",
+      "date": "07/07/2023",
+      "opener": "MUNA",
+      "isInternational": false
+    },
+    {
+      "id": 8,
+      "city": "Kansas City, MO",
+      "date": "07/08/2023",
+      "opener": "MUNA",
+      "isInternational": false
+    },
+    {
+      "id": 9,
+      "city": "Denver, CO",
+      "date": "07/14/2023",
+      "opener": "MUNA",
+      "isInternational": false
+    },
+    {
+      "id": 10,
+      "city": "Denver, CO",
+      "date": "07/15/2023",
+      "opener": "MUNA",
+      "isInternational": false
+    },
+    {
+      "id": 11,
+      "city": "Seattle, WA",
+      "date": "07/22/2023",
+      "opener": "HAIM",
+      "isInternational": false
+    },
+    {
+      "id": 12,
+      "city": "Seattle, WA",
+      "date": "07/23/2023",
+      "opener": "HAIM",
+      "isInternational": false
+    },
+    {
+      "id": 13,
+      "city": "Santa Clara, CA",
+      "date": "07/28/2023",
+      "opener": "HAIM",
+      "isInternational": false
+    },
+    {
+      "id": 14,
+      "city": "Santa Clara, CA",
+      "date": "07/29/2023",
+      "opener": "HAIM",
+      "isInternational": false
+    },
+    {
+      "id": 15,
+      "city": "Los Angeles, CA",
+      "date": "08/03/2023",
+      "opener": "HAIM",
+      "isInternational": false
+    },
+    {
+      "id": 16,
+      "city": "Los Angeles, CA",
+      "date": "08/04/2023",
+      "opener": "HAIM",
+      "isInternational": false
+    },
+    {
+      "id": 17,
+      "city": "Los Angeles, CA",
+      "date": "08/05/2023",
+      "opener": "HAIM",
+      "isInternational": false
+    },
+    {
+      "id": 18,
+      "city": "Los Angeles, CA",
+      "date": "08/08/2023",
+      "opener": "HAIM",
+      "isInternational": false
+    },
+    {
+      "id": 19,
+      "city": "Los Angeles, CA",
+      "date": "08/09/2023",
+      "opener": "HAIM",
+      "isInternational": false
+    },
+    {
+      "id": 20,
+      "city": "Mexico City, Mexico",
+      "date": "08/24/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 21,
+      "city": "Mexico City, Mexico",
+      "date": "08/25/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 22,
+      "city": "Mexico City, Mexico",
+      "date": "08/26/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 23,
+      "city": "Mexico City, Mexico",
+      "date": "08/27/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 24,
+      "city": "Buenos Aires, Argentina",
+      "date": "11/09/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 25,
+      "city": "Buenos Aires, Argentina",
+      "date": "11/10/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 26,
+      "city": "Buenos Aires, Argentina",
+      "date": "11/11/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 27,
+      "city": "Rio de Janeiro, Brazil",
+      "date": "11/18/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 28,
+      "city": "Rio de Janeiro, Brazil",
+      "date": "11/19/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 29,
+      "city": "São Paulo, Brazil",
+      "date": "11/24/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 30,
+      "city": "São Paulo, Brazil",
+      "date": "11/25/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    },
+    {
+      "id": 31,
+      "city": "São Paulo, Brazil",
+      "date": "11/26/2023",
+      "opener": "Sabrina Carpenter",
+      "isInternational": true
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "showId": 1,
+      "date": "",
+      "section": "A",
+      "row": "13",
+      "seat": 13,
+      "price": 130,
+      "email": "katie@swiftly.com"
+    },
+    {
+      "id": 2,
+      "showId": 2,
+      "date": "",
+      "section": "A",
+      "row": "13",
+      "seat": 13,
+      "price": 150,
+      "email": "katie@swiftly.com"
+    },
+    {
+      "id": 3,
+      "showId": 5,
+      "date": "",
+      "section": "A",
+      "row": "5",
+      "seat": 5,
+      "price": 150,
+      "email": "katie@swiftly.com"
+    },
+    {
+      "id": 4,
+      "showId": 7,
+      "date": "",
+      "section": "a",
+      "row": "4",
+      "seat": 4,
+      "price": 400,
+      "email": "sam@swiftly.com"
+    },
+    {
+      "id": 5,
+      "showId": 5,
+      "date": "",
+      "section": "F",
+      "row": "12",
+      "seat": 1,
+      "price": 300,
+      "email": "katie@swiftly.com"
+    },
+    {
+      "id": 6,
+      "showId": 9,
+      "date": "",
+      "section": "N",
+      "row": "2",
+      "seat": 10,
+      "price": 150,
+      "email": "jack.antonoff@example.com"
+    },
+    {
+      "id": 7,
+      "showId": 9,
+      "date": "",
+      "section": "A",
+      "row": "1",
+      "seat": 1,
+      "price": 150,
+      "email": "matty@the1975.com"
+    }
+  ]
+}
