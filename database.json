@@ -77,6 +77,12 @@
       "name": "Becky Swiff",
       "email": "becky.swiff@example.com",
       "isStaff": false
+    },
+    {
+      "id": 14,
+      "name": "Kelsey Lemmer",
+      "email": "klemmer@example.com",
+      "isStaff": true
     }
   ],
   "merchandise": [
@@ -410,6 +416,50 @@
       "seat": 5,
       "price": 170,
       "email": "ice.spice@example.com"
+    },
+    {
+      "id": 12,
+      "showId": 21,
+      "date": "",
+      "section": "N",
+      "row": "14",
+      "seat": 2,
+      "price": 350,
+      "email": "hayley.williams@example.com"
+    },
+    {
+      "id": 13,
+      "showId": 12,
+      "date": "",
+      "section": "K",
+      "row": "A",
+      "seat": 13,
+      "price": 130,
+      "email": "hayley.williams@example.com"
+    },
+    {
+      "id": 14,
+      "showId": 11,
+      "date": "",
+      "section": "A",
+      "row": "2",
+      "seat": 14,
+      "price": 170,
+      "email": "katie@swiftly.com"
+    }
+  ],
+  "messages": [
+    {
+      "name": "Ice Spice",
+      "email": "ice.spice@example.com",
+      "message": "GRUH",
+      "id": 1
+    },
+    {
+      "name": "Ice Spice",
+      "email": "ice.spice@example.com",
+      "message": "...facts",
+      "id": 2
     }
   ]
 }
