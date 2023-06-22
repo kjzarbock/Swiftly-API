@@ -83,6 +83,12 @@
       "name": "Kelsey Lemmer",
       "email": "klemmer@example.com",
       "isStaff": true
+    },
+    {
+      "id": 15,
+      "name": "Amy Zarbock",
+      "email": "azarbock@gmail.com",
+      "isStaff": false
     }
   ],
   "merchandise": [
