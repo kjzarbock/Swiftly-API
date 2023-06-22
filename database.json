@@ -151,7 +151,7 @@
     {
       "id": 10,
       "size": "L",
-      "price": "90",
+      "price": "65",
       "image": "https://i.imgur.com/EYadGHb.jpg",
       "email": "katie@swiftly.com"
     },
@@ -414,16 +414,6 @@
       "email": "katie@swiftly.com"
     },
     {
-      "id": 11,
-      "showId": 15,
-      "date": "",
-      "section": "C",
-      "row": "14",
-      "seat": 5,
-      "price": 170,
-      "email": "ice.spice@example.com"
-    },
-    {
       "id": 12,
       "showId": 21,
       "date": "",
@@ -458,13 +448,13 @@
     {
       "name": "Ice Spice",
       "email": "ice.spice@example.com",
-      "message": "GRUH",
+      "message": "Facts.",
       "id": 1
     },
     {
-      "name": "Ice Spice",
-      "email": "ice.spice@example.com",
-      "message": "...facts",
+      "name": "Hayley Williams",
+      "email": "hayley.williams@example.com",
+      "message": "Hey, love your app!",
       "id": 2
     }
   ]
