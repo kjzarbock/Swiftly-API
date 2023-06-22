@@ -88,13 +88,6 @@
       "email": "aaron.dessner@example.com"
     },
     {
-      "id": 2,
-      "size": "L",
-      "price": "45",
-      "image": "https://i.imgur.com/EYadGHb.jpg",
-      "email": "katie@swiftly.com"
-    },
-    {
       "id": 3,
       "size": "XL",
       "price": "69",
@@ -124,7 +117,7 @@
     },
     {
       "id": 7,
-      "size": "",
+      "size": "M",
       "price": "55",
       "image": "https://i.imgur.com/KYxbdw9.jpg",
       "email": "matty@the1975.com"
@@ -139,9 +132,23 @@
     {
       "id": 9,
       "size": "",
-      "price": "50",
+      "price": "70",
       "image": "https://i.imgur.com/izZKbdo.jpg",
       "email": "sam@swiftly.com"
+    },
+    {
+      "id": 10,
+      "size": "L",
+      "price": "90",
+      "image": "https://i.imgur.com/EYadGHb.jpg",
+      "email": "katie@swiftly.com"
+    },
+    {
+      "id": 11,
+      "size": "S",
+      "price": "50",
+      "image": "https://i.imgur.com/D7VFhbq.jpg",
+      "email": "hayley.williams@example.com"
     }
   ],
   "shows": [
@@ -365,56 +372,6 @@
   ],
   "tickets": [
     {
-      "id": 1,
-      "showId": 1,
-      "date": "",
-      "section": "A",
-      "row": "13",
-      "seat": 13,
-      "price": 130,
-      "email": "katie@swiftly.com"
-    },
-    {
-      "id": 2,
-      "showId": 2,
-      "date": "",
-      "section": "A",
-      "row": "13",
-      "seat": 13,
-      "price": 150,
-      "email": "katie@swiftly.com"
-    },
-    {
-      "id": 3,
-      "showId": 5,
-      "date": "",
-      "section": "A",
-      "row": "5",
-      "seat": 5,
-      "price": 150,
-      "email": "katie@swiftly.com"
-    },
-    {
-      "id": 4,
-      "showId": 7,
-      "date": "",
-      "section": "a",
-      "row": "4",
-      "seat": 4,
-      "price": 400,
-      "email": "sam@swiftly.com"
-    },
-    {
-      "id": 5,
-      "showId": 5,
-      "date": "",
-      "section": "F",
-      "row": "12",
-      "seat": 1,
-      "price": 300,
-      "email": "katie@swiftly.com"
-    },
-    {
       "id": 6,
       "showId": 9,
       "date": "",
@@ -433,6 +390,26 @@
       "seat": 1,
       "price": 150,
       "email": "matty@the1975.com"
+    },
+    {
+      "id": 10,
+      "showId": 4,
+      "date": "",
+      "section": "A",
+      "row": "1",
+      "seat": 1,
+      "price": 220,
+      "email": "katie@swiftly.com"
+    },
+    {
+      "id": 11,
+      "showId": 15,
+      "date": "",
+      "section": "C",
+      "row": "14",
+      "seat": 5,
+      "price": 170,
+      "email": "ice.spice@example.com"
     }
   ]
 }
