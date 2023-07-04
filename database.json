@@ -15,7 +15,7 @@
     {
       "id": 3,
       "name": "Aaron Dessner",
-      "email": "aaron.dessner@example.com",
+      "email": "aaron.dessner@swiftly.com",
       "isStaff": true
     },
     {
@@ -77,18 +77,6 @@
       "name": "Becky Swiff",
       "email": "becky.swiff@example.com",
       "isStaff": false
-    },
-    {
-      "id": 14,
-      "name": "Kelsey Lemmer",
-      "email": "klemmer@example.com",
-      "isStaff": true
-    },
-    {
-      "id": 15,
-      "name": "Amy Zarbock",
-      "email": "azarbock@gmail.com",
-      "isStaff": false
     }
   ],
   "merchandise": [
@@ -123,7 +111,7 @@
     {
       "id": 6,
       "size": "S",
-      "price": "28",
+      "price": "45",
       "image": "https://i.imgur.com/9LhWBrr.jpg",
       "email": "hayley.williams@example.com"
     },
@@ -151,7 +139,7 @@
     {
       "id": 10,
       "size": "L",
-      "price": "65",
+      "price": "50",
       "image": "https://i.imgur.com/EYadGHb.jpg",
       "email": "katie@swiftly.com"
     }
@@ -774,23 +762,13 @@
       "email": "hayley.williams@example.com"
     },
     {
-      "id": 13,
-      "showId": 12,
-      "date": "",
-      "section": "K",
-      "row": "A",
-      "seat": 13,
-      "price": 130,
-      "email": "hayley.williams@example.com"
-    },
-    {
       "id": 14,
       "showId": 11,
       "date": "",
       "section": "A",
       "row": "2",
       "seat": 14,
-      "price": 170,
+      "price": 150,
       "email": "katie@swiftly.com"
     },
     {
@@ -802,6 +780,16 @@
       "seat": 2,
       "price": 170,
       "email": "sam@swiftly.com"
+    },
+    {
+      "id": 17,
+      "showId": 80,
+      "date": "",
+      "section": "A",
+      "row": "13",
+      "seat": 13,
+      "price": 115,
+      "email": "hayley.williams@example.com"
     }
   ],
   "messages": [
@@ -814,14 +802,8 @@
     {
       "name": "Hayley Williams",
       "email": "hayley.williams@example.com",
-      "message": "Hey, love your app!",
+      "message": "Your app is so cool!",
       "id": 2
-    },
-    {
-      "name": "Ed Sheeran",
-      "email": "ed.sheeran@example.com",
-      "message": "Thank you! Finally able to see my favorite artist on the cheap because of your app!",
-      "id": 3
     }
   ]
 }
